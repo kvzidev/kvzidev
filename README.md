@@ -76,10 +76,9 @@ Cloud
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kizzandev) -->
 
-## Latest Articles at my Blog 📝
+<!-- ## Latest Articles at my Blog 📝
 
-- [How to find your strengths](https://blog.kizzan.dev/en/article/how-to-find-your-strengths/) <time style="font-size: 0.8rem;color: #888">• 2025-07-23</time>
-  - Strengths are where we naturally excel. It's important to know them to use them effectively, and if we don't find a place to apply them, we can look for or create opportunities that leverage them.
+%{{latests_articles}}% -->
 
 <!-- ## Últimos Artículos en mi Blog 📝
 
@@ -93,4 +92,4 @@ Cloud
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
-![card](./card.png)
+<!-- ![card](./card.png) -->
