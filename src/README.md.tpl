@@ -76,9 +76,9 @@ Cloud
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kizzandev) -->
 
-## Latest Articles at my Blog 📝
+<!-- ## Latest Articles at my Blog 📝
 
-%{{latests_articles}}%
+%{{latests_articles}}% -->
 
 <!-- ## Últimos Artículos en mi Blog 📝
 

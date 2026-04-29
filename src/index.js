@@ -76,22 +76,22 @@ const genYoutubeCard = ({ title, videoId }) => `
   try {
     const [template, articlesXml, videos] = await Promise.all([
       fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
-      getLatestArticles('https://kizzan-blog.pages.dev/en/rss.xml'),
+      // getLatestArticles('https://kizzan-blog.pages.dev/en/rss.xml'),
       // getLatestArticles('https://blog.kizzan.dev/en/rss.xml'),
       // getLatestYoutubeVideos(),
     ]);
 
-    const articles = await parser.parseString(articlesXml);
+    // const articles = await parser.parseString(articlesXml);
 
-    const latestsArticlesMd = articles.items
-      .slice(0, NUMBER_OF.ARTICLES)
-      .sort((a, b) => new Date(b.isoDate) - new Date(a.isoDate))
-      //.map(({ title, link }) => `- [${title}](${link})`)
-      .map(
-        ({ title, link, content, isoDate }) =>
-          `- [${title}](${link}) <time style="font-size: 0.8rem;color: #888">• ${isoDate.split("T")[0]}</time>\n  - ${content}`
-      )
-      .join("\n");
+    // const latestsArticlesMd = articles.items
+    //   .slice(0, NUMBER_OF.ARTICLES)
+    //   .sort((a, b) => new Date(b.isoDate) - new Date(a.isoDate))
+    //   //.map(({ title, link }) => `- [${title}](${link})`)
+    //   .map(
+    //     ({ title, link, content, isoDate }) =>
+    //       `- [${title}](${link}) <time style="font-size: 0.8rem;color: #888">• ${isoDate.split("T")[0]}</time>\n  - ${content}`
+    //   )
+    //   .join("\n");
 
     // const latestsVideosMd = videos
     //   .map(({ snippet }) => {
@@ -102,7 +102,7 @@ const genYoutubeCard = ({ title, videoId }) => `
     //   .join("");
 
     const newMd = template
-      .replace(PLACEHOLDERS.LATESTS_ARTICLES, latestsArticlesMd)
+      // .replace(PLACEHOLDERS.LATESTS_ARTICLES, latestsArticlesMd)
       // .replace(PLACEHOLDERS.VIDEOS, latestsVideosMd);
 
       await fs.writeFile("README.md", newMd);
