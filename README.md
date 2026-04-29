@@ -1,11 +1,11 @@
 ![banner](./welcome.gif)
 
-Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aires, with a degree on Architectural Design. I enjoy the process of development and seeing those creations come to life.
+Hello, I'm Kevin 👋🏼! The Systems Engineer driven by a curiosity for how things work under the hood.
 
 <h2>Lets connect 🔌</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kevinzanzi/)
-[![Mail](https://img.shields.io/badge/GMAIL-%23D14836.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:kevin@kizzan.dev)
+[![Mail](https://img.shields.io/badge/GMAIL-%23D14836.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:kevinzanzi+gh@gmail.com)
 <!-- [![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev) -->
 
 <!-- ORDER OF OPERATIONS
@@ -24,29 +24,27 @@ Cloud
 
 <h2 id="skills">Skills 💻</h2>
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-%231c1b1e?style=for-the-badge&logo=JavaScript)](##skills)
+[![Static Badge](https://img.shields.io/badge/C%2B%2B-%231c1b1e?style=for-the-badge&logo=C%2B%2B)](##skills)
+[![Static Badge](https://img.shields.io/badge/C-%231c1b1e?style=for-the-badge&logo=C)](##skills)
 [![Typescript](https://img.shields.io/badge/TypeScript-%231c1b1e?style=for-the-badge&logo=TypeScript)](##skills)
-[![ReactJS](https://img.shields.io/badge/React.JS-%231c1b1e?style=for-the-badge&logo=React)](##skills)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%231c1b1e?style=for-the-badge&logo=JavaScript)](##skills)
 [![HTML5](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)](##skills)
 [![CSS3](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS&logoColor=2965f1)](##skills)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)](##skills)
+[![ReactJS](https://img.shields.io/badge/React.JS-%231c1b1e?style=for-the-badge&logo=React)](##skills)
 [![MySQL](https://img.shields.io/badge/MYSQL-%231c1b1e?style=for-the-badge&logo=MYSQL)](##skills)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231c1b1e?style=for-the-badge&logo=PostgreSQL)](##skills)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%231c1b1e?style=for-the-badge&logo=MongoDB)](##skills)
-[![NextJS](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)](##skills)
-[![Astro](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro)](##skills)
-[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-1c1b1e.svg?logo=visualstudio&logoColor=0078d7&style=for-the-badge)](##skills)
 [![Git](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)](##skills)
-[![GitHub](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)](##skills)
-[![Markdown](https://img.shields.io/badge/Markdown-%231c1b1e?style=for-the-badge&logo=Markdown)](##skills)
-[![WSL2](https://img.shields.io/badge/WSL2-%231c1b1e?style=for-the-badge&logo=Linux)](##skills)
+[![CMake](https://img.shields.io/badge/CMake-%231c1b1e?style=for-the-badge&logo=CMake)](##skills)
+[![Linux](https://img.shields.io/badge/Linux-%231c1b1e?style=for-the-badge&logo=Linux)](##skills)
+[![GoogleTest](https://img.shields.io/badge/GoogleTest-%231c1b1e?style=for-the-badge&logo=Google)](##skills)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%231c1b1e?style=for-the-badge&logo=Cloudflare)](##skills)
+[![Docker](https://img.shields.io/badge/Docker-%231c1b1e?style=for-the-badge&logo=Docker)](##skills)
 
 <!-- ### Programming Languages -->
 
 <!-- ![Static Badge](https://img.shields.io/badge/Python-%231c1b1e?style=for-the-badge&logo=Python) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust) -->
-<!-- ![Static Badge](https://img.shields.io/badge/C%2B%2B-%231c1b1e?style=for-the-badge&logo=C%2B%2B) -->
 <!-- ![Static Badge](https://img.shields.io/badge/GDScript-%231c1b1e?style=for-the-badge&logo=GodotEngine&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Mojo-%231c1b1e?style=for-the-badge&label=%F0%9F%94%A5&labelColor=%23320000&color=%23320000) -->
 
@@ -55,11 +53,22 @@ Cloud
 <!-- ### Back End Development -->
 
 <!-- ![Static Badge](https://img.shields.io/badge/Node.JS-%231c1b1e?style=for-the-badge&logo=Node.JS)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%231c1b1e?style=for-the-badge&logo=MongoDB)](##skills)
 ![Static Badge](https://img.shields.io/badge/Express.js-%231c1b1e?style=for-the-badge&logo=Express) -->
 
 <!-- ### Full Stack Development -->
 
+<!-- [![NextJS](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)](##skills) 
+[![Astro](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro)](##skills)
+-->
+
 <!-- ### Tools -->
+
+<!--
+[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-1c1b1e.svg?logo=visualstudio&logoColor=0078d7&style=for-the-badge)](##skills)
+[![GitHub](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)](##skills)
+[![Markdown](https://img.shields.io/badge/Markdown-%231c1b1e?style=for-the-badge&logo=Markdown)](##skills)
+-->
 
 <!-- ### Operating Systems -->
 
