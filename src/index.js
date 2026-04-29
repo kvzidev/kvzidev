@@ -76,7 +76,8 @@ const genYoutubeCard = ({ title, videoId }) => `
   try {
     const [template, articlesXml, videos] = await Promise.all([
       fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
-      getLatestArticles('https://blog.kizzan.dev/en/rss.xml'),
+      getLatestArticles('https://kizzan-blog.pages.dev/en/rss.xml'),
+      // getLatestArticles('https://blog.kizzan.dev/en/rss.xml'),
       // getLatestYoutubeVideos(),
     ]);
 
