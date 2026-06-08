@@ -1,6 +1,6 @@
 ![banner](./welcome.gif)
 
-Hello, I'm Kevin 👋🏼! Systems Engineer driven by a curiosity for how things work under the hood.
+Hello, I'm Kevin 👋🏼! The Systems Engineer driven by a curiosity for how things work under the hood.
 
 <h2>Lets connect 🔌</h2>
 
