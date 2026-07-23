@@ -6,7 +6,7 @@ Hello, I'm Kevin 👋🏼! Systems Engineer driven by a curiosity for how things
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kevinzanzi/)
 [![Mail](https://img.shields.io/badge/GMAIL-%23D14836.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:kevinzanzi+gh@gmail.com)
-<!-- [![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev) -->
+<!-- [![Twitch Status](https://img.shields.io/twitch/status/kvzidev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kvzidev) -->
 
 <!-- ORDER OF OPERATIONS
 Programming Languages
