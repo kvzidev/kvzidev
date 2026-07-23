@@ -86,26 +86,54 @@ Cloud
 
 <!-- </details> -->
 
-<h2>Web Projects</h2>
+<h2>Projects</h2>
 
-### KV META SINTAXIS
-[KVMS](https://kvms.vercel.app)
+<details open>
+  <summary><h3 style="display:inline-block;">Libraries</h3></summary>
+
+### [zkint.h](https://github.com/kvzidev/zkint.h) <sup>↗</sup>
+
+Header-only library for handling big integers from 128 up to 1024 bits wide.
+- Supports arithmetic, comparison, and bitwise operations.
+- Zero external dependencies for quick integration.
+- Native interfaces for both C and C++ codebases.
+
+### [async-logger](https://github.com/kvzidev/async-logger) <sup>↗</sup>
+
+Asynchronous logging library designed for high-performance applications.
+- Non-blocking backend to minimize thread latency.
+- Configurable log formats and output sinks.
+- Distinct APIs for both C and C++ applications.
+
+</details>
+
+<details>
+  <summary><h3 style="display:inline-block;">Websites</h3></summary>
+
+### [KV META SINTAXIS](https://kvms.vercel.app) <sup>↗</sup>
 
 Metalanguage for designing context free programming languages. This new metalanguage allows you to:
 - Analyze `undefined`, `unreachable`, `cyclic`, and `recursive` grammar rules.
 - Visualize the rules through a railroad diagram.
 - Generate random code based on the grammar rules.
+
 Additionally, you can download and upload grammars in JSON format.
 
-### Taller de Teatro
-[Taller de Teatro](https://clases-de-teatro.pages.dev/)
+### [Taller de Teatro](https://clases-de-teatro.pages.dev/) <sup>↗</sup>
 
-Demo web for a theater class including a landing page, showcase of plays, and current and past students with a short bio.
+Demo website for a theater workshop. Key features:
+- Responsive landing page for presenting the workshop.
+- Showcase posts of current and past theatrical plays.
+- Actor profiles (current and former) with bios.
 
-### Presidente
-[Presidente](https://presidente.pages.dev/)
+### [Presidente](https://presidente.pages.dev/) <sup>↗</sup>
 
-Web site for a presidential candidate with proposals, a team page, and the blog for related events.
+Campaign website for a presidential candidate to share political platforms and updates.
+- Categorized proposals page outlining the candidate's agenda.
+- Directory listing campaign team members and their roles.
+- Campaign blog for sharing announcements.
+
+</details>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kvzidev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kvzidev) -->
 
