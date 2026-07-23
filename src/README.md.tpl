@@ -2,7 +2,7 @@
 
 Hello, I'm Kevin 👋🏼! Systems Engineer driven by a curiosity for how things work under the hood.
 
-<h2>Lets connect 🔌</h2>
+<h2>Lets connect</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kevinzanzi/)
 [![Mail](https://img.shields.io/badge/GMAIL-%23D14836.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:kevinzanzi+gh@gmail.com)
@@ -20,9 +20,9 @@ Cloud
 -->
 
 <!-- <details>
-  <summary><h2>Skills 💻</h2></summary> -->
+  <summary><h2>Skills</h2></summary> -->
 
-<h2 id="skills">Skills 💻</h2>
+<h2 id="skills">Skills</h2>
 
 [![Static Badge](https://img.shields.io/badge/C%2B%2B-%231c1b1e?style=for-the-badge&logo=C%2B%2B)](##skills)
 [![Static Badge](https://img.shields.io/badge/C-%231c1b1e?style=for-the-badge&logo=C)](##skills)
@@ -41,47 +41,67 @@ Cloud
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%231c1b1e?style=for-the-badge&logo=Cloudflare)](##skills)
 [![Docker](https://img.shields.io/badge/Docker-%231c1b1e?style=for-the-badge&logo=Docker)](##skills)
 
-<!-- ### Programming Languages -->
-
-<!-- ![Static Badge](https://img.shields.io/badge/Python-%231c1b1e?style=for-the-badge&logo=Python) -->
-<!-- ![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust) -->
-<!-- ![Static Badge](https://img.shields.io/badge/GDScript-%231c1b1e?style=for-the-badge&logo=GodotEngine&color=%23320000) -->
-<!-- ![Static Badge](https://img.shields.io/badge/Mojo-%231c1b1e?style=for-the-badge&label=%F0%9F%94%A5&labelColor=%23320000&color=%23320000) -->
-
-<!-- ### Front End Development -->
-
-<!-- ### Back End Development -->
-
-<!-- ![Static Badge](https://img.shields.io/badge/Node.JS-%231c1b1e?style=for-the-badge&logo=Node.JS)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%231c1b1e?style=for-the-badge&logo=MongoDB)](##skills)
-![Static Badge](https://img.shields.io/badge/Express.js-%231c1b1e?style=for-the-badge&logo=Express) -->
-
-<!-- ### Full Stack Development -->
-
-<!-- [![NextJS](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)](##skills) 
-[![Astro](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro)](##skills)
--->
-
-<!-- ### Tools -->
-
 <!--
+### Programming Languages
+
+![Static Badge](https://img.shields.io/badge/Python-%231c1b1e?style=for-the-badge&logo=Python)
+![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust)
+![Static Badge](https://img.shields.io/badge/GDScript-%231c1b1e?style=for-the-badge&logo=GodotEngine&color=%23320000)
+![Static Badge](https://img.shields.io/badge/Mojo-%231c1b1e?style=for-the-badge&label=%F0%9F%94%A5&labelColor=%23320000&color=%23320000)
+
+### Front End Development
+
+### Back End Development
+
+![Static Badge](https://img.shields.io/badge/Node.JS-%231c1b1e?style=for-the-badge&logo=Node.JS)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%231c1b1e?style=for-the-badge&logo=MongoDB)](##skills)
+![Static Badge](https://img.shields.io/badge/Express.js-%231c1b1e?style=for-the-badge&logo=Express)
+
+### Full Stack Development
+
+[![NextJS](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)](##skills) 
+[![Astro](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro)](##skills)
+
+### Tools
+
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-1c1b1e.svg?logo=visualstudio&logoColor=0078d7&style=for-the-badge)](##skills)
 [![GitHub](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)](##skills)
 [![Markdown](https://img.shields.io/badge/Markdown-%231c1b1e?style=for-the-badge&logo=Markdown)](##skills)
+
+### Operating Systems
+
+![Static Badge](https://custom-icon-badges.demolab.com/badge/Windows-1c1b1e?style=for-the-badge&logo=windows11&logoColor=0078D6)
+
+### Languages
+
+![Static Badge](<https://img.shields.io/badge/Español%2Fnative-%231c1b1e?style=for-the-badge>)
+![Static Badge](https://img.shields.io/badge/English%2Fadvanced-%231c1b1e?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000)
 -->
 
-<!-- ### Operating Systems -->
-
-<!-- ![Static Badge](https://custom-icon-badges.demolab.com/badge/Windows-1c1b1e?style=for-the-badge&logo=windows11&logoColor=0078D6) -->
-
-<!-- ### Languages -->
-
-<!-- ![Static Badge](<https://img.shields.io/badge/Español%2Fnative-%231c1b1e?style=for-the-badge>)
-![Static Badge](https://img.shields.io/badge/English%2Fadvanced-%231c1b1e?style=for-the-badge) -->
-
-<!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
-
 <!-- </details> -->
+
+<h2>Web Projects</h2>
+
+### KV META SINTAXIS
+[KVMS](https://kvms.vercel.app)
+
+Metalanguage for designing context free programming languages. This new metalanguage allows you to:
+- Analyze `undefined`, `unreachable`, `cyclic`, and `recursive` grammar rules.
+- Visualize the rules through a railroad diagram.
+- Generate random code based on the grammar rules.
+Additionally, you can download and upload grammars in JSON format.
+
+### Taller de Teatro
+[Taller de Teatro](https://clases-de-teatro.pages.dev/)
+
+Demo web for a theater class including a landing page, showcase of plays, and current and past students with a short bio.
+
+### Presidente
+[Presidente](https://presidente.pages.dev/)
+
+Web site for a presidential candidate with proposals, a team page, and the blog for related events.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kizzandev) -->
 
@@ -97,7 +117,7 @@ Cloud
 
 %{{latests_youtube}}% -->
 
-#
+<!-- # -->
 
 <!-- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
