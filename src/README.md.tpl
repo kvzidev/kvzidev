@@ -22,6 +22,8 @@ Cloud
 <!-- <details>
   <summary><h2>Skills</h2></summary> -->
 
+<!-- #region skills -->
+
 <h2 id="skills">Skills</h2>
 
 [![Static Badge](https://img.shields.io/badge/C%2B%2B-%231c1b1e?style=for-the-badge&logo=C%2B%2B)](##skills)
@@ -41,7 +43,9 @@ Cloud
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-%231c1b1e?style=for-the-badge&logo=Cloudflare)](##skills)
 [![Docker](https://img.shields.io/badge/Docker-%231c1b1e?style=for-the-badge&logo=Docker)](##skills)
 
-<!--
+<!-- #endregion -->
+
+<!-- 
 ### Programming Languages
 
 ![Static Badge](https://img.shields.io/badge/Python-%231c1b1e?style=for-the-badge&logo=Python)
