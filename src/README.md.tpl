@@ -107,7 +107,7 @@ Demo web for a theater class including a landing page, showcase of plays, and cu
 
 Web site for a presidential candidate with proposals, a team page, and the blog for related events.
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kizzandev) -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=kvzidev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kvzidev) -->
 
 <!-- ## Latest Articles at my Blog 📝
 
@@ -123,6 +123,6 @@ Web site for a presidential candidate with proposals, a team page, and the blog 
 
 <!-- # -->
 
-<!-- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
+<!-- ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kvzidev&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ![card](./card.png) -->
