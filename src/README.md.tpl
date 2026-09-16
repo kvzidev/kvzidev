@@ -88,6 +88,12 @@ Cloud
 
 <h2>Projects</h2>
 
+<h3 id="currently-working-on">Currently Working On</h3>
+
+### [Programming Language](#currently-working-on)
+
+Statically typed, compiled imperative language engineered for predictable semantics and rapid learning. Developed the full compiler pipeline, from lexer and parser to code generation, written entirely in the language itself to compile its own source tree.
+
 <details open>
   <summary><h3 style="display:inline-block;">Apps</h3></summary>
 
