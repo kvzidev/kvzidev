@@ -104,6 +104,9 @@ const genYoutubeCard = ({ title, videoId }) => `
     const newMd = template
       // .replace(PLACEHOLDERS.LATESTS_ARTICLES, latestsArticlesMd)
       // .replace(PLACEHOLDERS.VIDEOS, latestsVideosMd);
+    
+      // Remove all comments <!-- ... -->
+      .replace(/<!--[\s\S]*?-->/g, "");
 
       await fs.writeFile("README.md", newMd);
   } catch (error) {
